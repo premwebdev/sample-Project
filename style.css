@@ -1,0 +1,38 @@
+h1{
+  text-align: center;
+}
+#upperbody{
+  height: calc(100vh - 238px);
+}
+#valuePlease{
+  color: #ffffff;
+  background-color: #202020;
+  margin: 0 auto;
+  width: 250px;
+  font-size: 1.4em;
+}
+form{
+
+  margin: 2em auto;
+  width: 40%;
+  background-color: #000;
+  color: #fff;
+}
+form input{
+  padding: 4px 8px;
+  margin: 12px 0;
+}
+form button{
+  text-align: center;
+  margin: 0 auto;
+}
+#output{
+
+  height: 200px;
+  width: 100%;
+  background-color: #333;
+}
+#outHeading{
+  background-color: #ff5;
+  color: #f02;
+}
